@@ -1,0 +1,6 @@
+{
+  "name": "辛云企业获客中心",
+  "description": "辛云-企业获客集成管理端，提供完善的个人资料管理、账户安全审计、工作台数据监控、活跃设备查看、活动日志以及通知中心等完整面板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
